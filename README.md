@@ -1,9 +1,9 @@
 Description:
-The ProgHAM repository contains the implementation of a trained Gradient Boosting machine learning model designed to predict the risk of people living with HTLV (PLwHTLV) developing HAM/TSP (HTLV-1-associated myelopathy/tropical spastic paraparesis).The model was developed using a clinical dataset of 121 PLwHTLV, employing undersampling via Tomek Links to address data imbalance.
+The ProgHAM repository contains the implementation of a trained Gradient Boosting machine learning model designed to predict people living with HTLV (PLwHTLV) with a indicative of development HAM/TSP (HTLV-1-associated myelopathy/tropical spastic paraparesis).The model was developed using a clinical dataset of 121 PLwHTLV, employing undersampling via Tomek Links to address data imbalance.
 
-The goal of ProgHAM is to provide a predictive model that supports medical follow-up for patients, enabling better risk stratification for the progression of Tropical Spastic Paraparesis/HTLV-Associated Myelopathy (HAM/TSP).
+The goal of ProgHAM is to provide a predictive model that supports medical follow-up for patients, enabling better risk stratification for the progression of HAM/TSP.
 
-Available at the link:
+This tool is available to free use at the link:
 https://colab.research.google.com/drive/1l2LJ3UHxk_TUmd6OI3ihus8CetPF0xFP
 
 📂 Model Development
