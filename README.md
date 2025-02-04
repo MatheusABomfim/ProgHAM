@@ -1,4 +1,3 @@
-ProgHAM
 Description:
 The ProgHAM repository contains the implementation of a Gradient Boosting machine learning model trained to predict the prognosis of People Living with HTLV (PLwHTLV). The model was developed using a clinical dataset of 121 PLwHTLV, employing undersampling via Tomek Links to address data imbalance.
 
@@ -9,6 +8,7 @@ Data Preprocessing: Cleaning, normalization, and balancing using Tomek Links.
 Model Training: Implementation of Gradient Boosting for clinical prognosis prediction.
 Results Interpretation: Analysis of the importance of clinical features in forecasting TSP/HAM progression.
 Reproducibility: Modular code and notebooks to facilitate pipeline execution.
+
 📁 Model Development
 The ProgHAM_model_development folder contains all the steps for model development, including:
 
