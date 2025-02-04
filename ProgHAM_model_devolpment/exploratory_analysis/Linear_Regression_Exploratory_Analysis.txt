@@ -1,0 +1,17 @@
+P-values for each independent variable:
+const                          0.626178
+Gender                         0.758412
+Age                            0.128425
+Urinary Function Impairment    0.000970
+Arthralgia                     0.375942
+Psychiatric Symptoms           0.454334
+Gastrointestinal Tract         0.631457
+Lower Limb Pain                0.000803
+Lower Limb Paresthesia         0.968137
+Lower Limb Paresis/Weakness    0.503744
+Lower Back/Spine Pain          0.159041
+Spasticity                     0.283547
+Upper Limb Neuropathy          0.396757
+Neurogenic Bladder             0.297307
+Motor Function                 0.030017
+dtype: float64
