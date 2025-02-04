@@ -21,4 +21,4 @@ The ProgHAM_model_development folder contains all the steps for model developmen
 To better illustrate ProgHAM's performance, the following image provides an overview of its performance (It is worth emphasising that the tool requires validation for clinical use and should be used as a support tool for clinical staff, NOT AS A DIAGNOSIS DEVICE):
 
 <p align="center"> <img src="Overview.png" alt="Project Overview" width="600"> </p>
-(Replace images/ProgHAM_overview.png with the actual path in the repository.)
+
