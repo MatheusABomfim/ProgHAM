@@ -22,3 +22,5 @@ To better illustrate ProgHAM's performance, the following image provides an over
 
 <p align="center"> <img src="Overview.png" alt="Project Overview" width="600"> </p>
 
+If you are interested in contributing data to enhance the model, improving both the training and classification processes, please contact us at: matheusazevedo98@gmail.com
+
