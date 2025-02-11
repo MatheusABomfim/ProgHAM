@@ -1,5 +1,0 @@
-- Age (p-value: 0.04048)
-- Urinary Function Impairment (p-value: 0.00000)
-- Lower Limb Pain (p-value: 0.00568)
-- Spasticity (p-value: 0.00280)
-- Motor Function (p-value: 0.00000)
