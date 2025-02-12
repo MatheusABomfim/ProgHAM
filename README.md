@@ -1,4 +1,3 @@
-Description:
 The ProgHAM repository contains the implementation of a trained Gradient Boosting machine learning model designed to predict people living with HTLV (PLwHTLV) with a indicative of development HAM/TSP (HTLV-1-associated myelopathy/tropical spastic paraparesis). The model was developed using a clinical dataset of 121 PLwHTLV, followed up at the Oswaldo Cruz University Hospital (HUOC) (Pernambuco - Brazil), employing undersampling via Tomek Links to address data imbalance.
 
 The goal of ProgHAM is to provide a predictive model that supports medical follow-up for patients, enabling better risk stratification for the progression of HAM/TSP.
