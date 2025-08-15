@@ -18,3 +18,4 @@ Well, now that you have an overview of our project, if you're interested, your c
 
 Feel free to contact us at: matheusazevedo98@gmail.com
 
+*Registered under the Brazilian Patent and Trademark Office (INPI), Process No. BR512025003608-6.*
