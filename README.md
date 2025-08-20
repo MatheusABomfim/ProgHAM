@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1l2LJ3UHxk_TUmd6OI3ihus8CetPF0xFP
 🖼 Project Overview
 To better illustrate ProgHAM's performance, the following image provides an overview of its performance (It is worth emphasising that the tool requires validation for clinical use and should be used as a support tool for clinical staff, NOT AS A DIAGNOSIS DEVICE):
 
-<p align="center"> <img src="Overview.png" alt="Project Overview" width="600"> </p>
+<p align="center"> <img src="Overview_new.png" alt="Project Overview" width="600"> </p>
 
 Contributing to the improvement of ProgHAM The active participation of all users in improving ProgHAM is essential for the advancement of knowledge and health practices related to HTLV. By making data available to be trained with ProgHAM, you help improve the accuracy of the device's predictions, directly contributing to the early identification of patients who need specialised follow-up.
 
